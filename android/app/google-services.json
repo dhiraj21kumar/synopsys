@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "272380527588",
+    "firebase_url": "https://nmit-epms.firebaseio.com",
+    "project_id": "nmit-epms",
+    "storage_bucket": "nmit-epms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272380527588:android:6568e770218ee383047df1",
+        "android_client_info": {
+          "package_name": "com.dhiraj.synopsys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272380527588-ebls69f2bu25hcd812g5c48atpp44pst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTT3mFeEQk7gArgYVJIC5qRpbTqujUNJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272380527588-ebls69f2bu25hcd812g5c48atpp44pst.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "272380527588-fjsghgjv582bjmm3qp9dv22refkpt069.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blr.dhiraj.EPMS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
